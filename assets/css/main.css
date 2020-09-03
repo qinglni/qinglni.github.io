@@ -823,6 +823,8 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				margin-left: 0.5em;
+				margin-right: 0.5em;
 			}
 
 				.row > * {
@@ -1068,6 +1070,8 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				margin-left: 0.5em;
+				margin-right: 0.5em;
 			}
 
 				.row > * {
@@ -1561,6 +1565,8 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+				margin-left: 0.5em;
+				margin-right: 0.5em;
 			}
 
 				.row > * {
